@@ -2,11 +2,8 @@
   "name": "3d-react-rubikcube",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://k-alex-leon.github.io/3d-react-rubikcube/",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
